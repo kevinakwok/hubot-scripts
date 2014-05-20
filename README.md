@@ -1,4 +1,4 @@
 hubot-scripts
 =============
 
-Hubot scripts
+Selection of vital hubot scripts
